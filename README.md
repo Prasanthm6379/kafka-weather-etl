@@ -28,8 +28,8 @@ This project demonstrates a simple real-time data streaming pipeline using Apach
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone git@github.com:Prasanthm6379/kafka-weather-etl.git
+    cd kafka-weather-etl
     ```
 
 2.  **Start Kafka and Zookeeper:**
