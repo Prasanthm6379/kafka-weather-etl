@@ -1,7 +1,7 @@
 from kafka import KafkaProducer
 import json
 import time
-import requests # type: ignore
+import requests
 
 # Connect to Kafka broker
 producer = KafkaProducer(
